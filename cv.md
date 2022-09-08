@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>rs-school</title>
-  </head>
+      </head>
 <body>
-    <header>CV</header>
-    <h1>Ekaterina Kan</h1>
+     <h1>Ekaterina Kan</h1>
      <main>
         <div>
            <h2>Contacts</h2> 
