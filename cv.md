@@ -5,13 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    
-</head>
+  </head>
 <body>
     <header>CV</header>
     <h1>Ekaterina Kan</h1>
-  
-    <main>
+     <main>
         <div>
            <h2>Contacts</h2> 
             <div>
@@ -23,10 +21,8 @@
                     <li> Linkedin: https://www.linkedin.com/in/ekaterina-kan/</li>
                     <li>Instagram: katyakan_</li>
                 </ul>                                            
-               
             </div>
        </div>
-
         <div>
            <h2>Languages</h2> 
            <div>
@@ -34,11 +30,9 @@
                 <li>English: B2 (UpperIntermediate)</li>
                 <li>Russian: Native</li>
                 <li> Esperanto: A2 </li>
-            </ul>                
-           
+            </ul>        
            </div>
         </div>
-
         <div>
            <h2>Skills</h2>
            <div>
@@ -50,10 +44,8 @@
                 <li>Figma</li>
                 <li>Zoom, Teams</li>
             </ul>
-                     
            </div>
         </div>
-
         <div>
             <h2>Courses</h2>
             <div>
@@ -62,24 +54,9 @@
                     <li>HTML academy: 'Frontend developer';</li>
                     <li>50k programmers: 'Frontend developer';</li>
                 </ul>
-                
-                
-                
-
             </div>
-
         </div>
     </main> 
-
-
-
-
-
-
-
-
-
-
 <footer>
  <div><p>My CV 2022</p></div>
 </footer>
